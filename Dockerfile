@@ -1,3 +1,4 @@
+#napishu kakuyoo to shlyapu
 FROM python 
 
 COPY shiur_code.py .
