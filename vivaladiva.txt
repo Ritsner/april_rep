@@ -1,1 +1,2 @@
 echo "oi tam na gori"
+"selyki pinayichaly"
